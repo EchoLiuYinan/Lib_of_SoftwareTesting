@@ -1,0 +1,17 @@
+警告: C:\Program Files (x86)\Java\jre1.8.0_171\lib\rt.jar(java/util/Arrays.class): 主版本 52 比 51 新, 此编译器支持最新的主版本。
+  建议升级此编译器。
+警告: C:\Program Files (x86)\Java\jre1.8.0_171\lib\rt.jar(java/lang/Object.class): 主版本 52 比 51 新, 此编译器支持最新的主版本。
+  建议升级此编译器。
+警告: C:\Program Files (x86)\Java\jre1.8.0_171\lib\rt.jar(java/lang/String.class): 主版本 52 比 51 新, 此编译器支持最新的主版本。
+  建议升级此编译器。
+警告: C:\Program Files (x86)\Java\jre1.8.0_171\lib\rt.jar(java/lang/AutoCloseable.class): 主版本 52 比 51 新, 此编译器支持最新的主版本。
+  建议升级此编译器。
+警告: C:\Program Files (x86)\Java\jre1.8.0_171\lib\rt.jar(java/lang/System.class): 主版本 52 比 51 新, 此编译器支持最新的主版本。
+  建议升级此编译器。
+警告: C:\Program Files (x86)\Java\jre1.8.0_171\lib\rt.jar(java/io/PrintStream.class): 主版本 52 比 51 新, 此编译器支持最新的主版本。
+  建议升级此编译器。
+警告: C:\Program Files (x86)\Java\jre1.8.0_171\lib\rt.jar(java/io/FilterOutputStream.class): 主版本 52 比 51 新, 此编译器支持最新的主版本。
+  建议升级此编译器。
+警告: C:\Program Files (x86)\Java\jre1.8.0_171\lib\rt.jar(java/io/OutputStream.class): 主版本 52 比 51 新, 此编译器支持最新的主版本。
+  建议升级此编译器。
+8 个警告

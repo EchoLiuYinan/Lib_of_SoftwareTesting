@@ -35,9 +35,9 @@ public class LoginTest {
         String driverPath = System.getProperty("user.dir") + "/firefox/geckodriver.exe";
         System.setProperty("webdriver.gecko.driver", driverPath);
         FirefoxOptions options = new FirefoxOptions();
-//        options.addArguments("--headless");
-//        options.addArguments("--disable-gpu");
-        driver = new FirefoxDriver();
+        options.addArguments("--headless");
+        options.addArguments("--disable-gpu");
+        driver = new FirefoxDriver(options);
         baseUrl = "http://121.193.130.195:8800/login";
         driver.manage().timeouts().implicitlyWait(30, TimeUnit.SECONDS);
     }
